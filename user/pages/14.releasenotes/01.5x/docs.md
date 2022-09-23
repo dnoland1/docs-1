@@ -135,6 +135,7 @@ neuvector-scanner-pod-87474dcff-s8vgt       1/1     Running   0          114s   
 + Removed serverless scanning feature/menu.
 + Removed support for Jfrog Xray scan result integration (Artifactory registry scan is still supported).
 + Support for deployment on ECS is no longer provided. The allinone should still be able to be deployed on ECS, however, the documentation of the steps and settings is no longer supported.
++ Starting with 5.0.0, software license keys are no longer needed. NeuVector 5.0.0 is completely open source.
 
 
 ### Upgrading from NeuVector 4.x to 5.x
